@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Kevin Stevens</title>
+ <link href="https://stevenskevin.github.io/atom.xml" rel="self"/>
+ <link href="https://stevenskevin.github.io/"/>
+ <updated>2020-10-04T01:33:29-04:00</updated>
+ <id>https://stevenskevin.github.io</id>
+ <author>
+   <name>Kevin Stevens</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>A Pushdown Automaton for Lua</title>
+   <link href="https://stevenskevin.github.io/development/2020/05/07/a-two-way-pushdown-automaton-for-the-lua-language.html"/>
+   <updated>2020-05-07T05:25:00-04:00</updated>
+   <id>https://stevenskevin.github.io/development/2020/05/07/a-two-way-pushdown-automaton-for-the-lua-language</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>LunaH-Map Trajectory Visualizer</title>
+   <link href="https://stevenskevin.github.io/development/2020/04/30/lunah-map-deep-space-trajectory-visualizer.html"/>
+   <updated>2020-04-30T19:18:00-04:00</updated>
+   <id>https://stevenskevin.github.io/development/2020/04/30/lunah-map-deep-space-trajectory-visualizer</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+
+</feed>
