@@ -16,7 +16,7 @@
 title: "Kevin Stevens"
 email: 'example@example.com'
 description: "I'm a graduate student studying computer security at Georgia Tech. In particular, I'm primarily interested in binary analysis."
-email_description: "<i>(my GitHub username)</i>@gmail.com"
+email_description: "<i>(last name)</i> a <i>(first name)</i> @gmail.com"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stevenskevin.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 github_username: 'stevensakevin'
